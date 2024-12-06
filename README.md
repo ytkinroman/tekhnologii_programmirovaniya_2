@@ -90,19 +90,19 @@
 Нужно модифицировать код [mp_task_01.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_01.py) и [mp_task_02.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_02.py) с помощью асинхронных функций библиотеки asyncio.
 
 
-Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).
+### Модификация mp_task_01.py (с использованием asyncio)
+**Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).**
 
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py)*
 
 
-Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).
+Текст...
+
+
+### Модификация mp_task_02.py (с использованием asyncio)
+**Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).**
 
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py)*
 
 
-### Модификация mp_task_01
-Текст...
-
-
-### Модификация mp_task_02
 Текст...
