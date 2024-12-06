@@ -83,3 +83,26 @@
 
 **Процессы** (2,51 сек.) позволяют выполнять задачи параллельно, используя несколько процессоров или ядер. В отличие от потоков процессы работают хорошо. Это связано с тем, что каждый процесс имеет свой собственный интерпретатор Python и не ограничен GIL. Таким образом, процессы в рамках задачи могут полностью использовать преимущества многопроцессорных систем.
 
+
+
+
+## Задание 3
+Нужно модифицировать код [mp_task_01.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_01.py) и [mp_task_02.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_02.py) с помощью асинхронных функций библиотеки asyncio.
+
+
+Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).
+
+*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py)*
+
+
+Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).
+
+*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py)*
+
+
+### Модификация mp_task_01
+Текст...
+
+
+### Модификация mp_task_02
+Текст...
