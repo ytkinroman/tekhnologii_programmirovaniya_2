@@ -91,18 +91,47 @@
 
 
 ### Модификация mp_task_01.py (с использованием asyncio)
-**Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).**
+Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).
 
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py)*
 
 
-Текст...
+### Тест последовательного выполнения
+
+![Результаты теста последовательного выполнения](img/img_09.jpg)
+
+
+
+### Тест выполнения через потоки
+
+![Результаты теста через потоки](img/img_10.jpg)
+
+
+
+### Тест выполнения через процессы
+
+![Результаты теста через процессы](img/img_11.jpg)
+
 
 
 ### Модификация mp_task_02.py (с использованием asyncio)
-**Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).**
+Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).
 
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py)*
 
 
-Текст...
+### Тест последовательного выполнения
+
+![Результаты теста последовательного выполнения](img/img_12.jpg)
+
+
+
+### Тест выполнения через потоки
+
+![Результаты теста через потоки](img/img_13.jpg)
+
+
+
+### Тест выполнения через процессы
+
+![Результаты теста через процессы](img/img_14.jpg)
