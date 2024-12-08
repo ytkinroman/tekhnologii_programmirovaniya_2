@@ -13,6 +13,7 @@
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_01.py)*
 
 
+
 ```
 pip install requests
 ```
@@ -93,6 +94,11 @@ pip install requests
 
 ## Задание 3
 Нужно модифицировать код [mp_task_01.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_01.py) и [mp_task_02.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_02.py) с помощью асинхронных функций библиотеки asyncio.
+
+
+```
+pip install aiohttp
+```
 
 
 ### Модификация mp_task_01.py (с использованием asyncio)
