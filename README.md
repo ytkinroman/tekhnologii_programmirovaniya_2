@@ -91,47 +91,49 @@
 
 
 ### Модификация mp_task_01.py (с использованием asyncio)
-Модифицированный код mod_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py).
+Модифицированный код asyncio_mp_task_01.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/asyncio_mp_task_01.py).
 
-*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_01.py)*
-
-
-### Тест последовательного выполнения
-
-![Результаты теста последовательного выполнения](img/img_09.jpg)
+*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/asyncio_mp_task_01.py)*
 
 
 
-### Тест выполнения через потоки
-
-![Результаты теста через потоки](img/img_10.jpg)
-
+### Обычное состояние
+![Обычное состояние](img/img_09.jpg)
 
 
-### Тест выполнения через процессы
 
-![Результаты теста через процессы](img/img_11.jpg)
+### Тест последовательного выполнения асинхронной функции
+
+![Результаты теста последовательного выполнения](img/img_10.jpg)
+
+
+
+### Тест параллельного выполнения асинхронной функции
+
+![Результаты теста параллельного выполнения](img/img_11.jpg)
+
+
 
 
 
 ### Модификация mp_task_02.py (с использованием asyncio)
-Модифицированный код mod_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py).
+Модифицированный код asyncio_mp_task_02.py [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/asyncio_mp_task_02.py).
 
-*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mod_mp_task_02.py)*
+*(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/asyncio_mp_task_02.py)*
 
 
-### Тест последовательного выполнения
+
+### Обычное состояние
+![Обычное состояние](img/img_09.jpg)
+
+
+
+### Тест последовательного выполнения асинхронной функции
 
 ![Результаты теста последовательного выполнения](img/img_12.jpg)
 
 
 
-### Тест выполнения через потоки
+### Тест параллельного выполнения асинхронной функции
 
-![Результаты теста через потоки](img/img_13.jpg)
-
-
-
-### Тест выполнения через процессы
-
-![Результаты теста через процессы](img/img_14.jpg)
+![Результаты теста параллельного выполнения](img/img_13.jpg)
