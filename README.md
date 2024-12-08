@@ -13,7 +13,12 @@
 *(или тут https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/mp_task_01.py)*
 
 
-### Обычное состоняие
+```
+pip install requests
+```
+
+
+### Обычное состояние
 ![Обычное состояние](img/img_01.jpg)
 
 
